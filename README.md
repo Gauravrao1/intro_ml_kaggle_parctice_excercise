@@ -48,7 +48,7 @@ The course covers fundamental machine learning concepts such as:
 
 This repository is created to:
 
-* Practice ML concepts
+* Practice ML concepts 
 * Track learning progress
 * Build a strong foundation in machine learning
 
