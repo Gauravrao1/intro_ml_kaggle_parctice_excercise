@@ -42,7 +42,7 @@ The course covers fundamental machine learning concepts such as:
 2. Open notebooks using Jupyter / VS Code
 3. Run cells step by step to understand the workflow
 
----
+--- 
 
 ## 🎯 Purpose
 
