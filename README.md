@@ -24,7 +24,7 @@ The course covers fundamental machine learning concepts such as:
 * `exercise05.ipynb` → Random Forests
 * `exercise06.ipynb` → Machine Learning Concepts
 * `exercise07.ipynb` → Final Practice
-
+ 
 ---
 
 ## 🛠️ Technologies Used
